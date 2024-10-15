@@ -4,6 +4,9 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
   <header>
+    <div>
+      ar测试
+    </div>
     <div class="wrapper">
       <nav>
         <RouterLink to="/image">Image</RouterLink>
